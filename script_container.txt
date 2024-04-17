@@ -1,3 +1,11 @@
 ola
 
 "Hello"
+
+"Estou no ramo_A_grupo_3, isso é legal"
+
+"Estou no ramo_B_grupo_3, isso é MUITO BOM!"
+
+
+"Agora sim estou no ramo_B_grupo_3, isso é Depois!"
+
